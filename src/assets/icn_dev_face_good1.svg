@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="94px" viewBox="0 0 124 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_dev_face_good</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="34.7007386" y="0.331708109" width="85.9894963" height="93.3864422"></rect>
+    </defs>
+    <g id="EXPORS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icn_dev_face_good">
+            <g id="Group-7" transform="translate(3.000000, 0.000000)">
+                <g id="Rectangle-24-Copy-3">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#000000" stroke-width="7.39694592" x="38.3992116" y="4.03018107" width="78.5925504" height="85.9894963"></rect>
+                </g>
+                <rect id="Rectangle-25-Copy-6" fill="#000000" x="86.4793601" y="34.542583" width="12.9446554" height="12.9446554"></rect>
+                <rect id="Rectangle-25-Copy-7" fill="#000000" x="41.1730663" y="33.6179647" width="12.9446554" height="12.9446554"></rect>
+                <path d="M89.2532148,33.6179647 L117.007168,33.6179647" id="Line-14-Copy" stroke="#000000" stroke-width="5.54770944" stroke-linecap="square"></path>
+                <path d="M37.4745933,33.6179647 L65.8747864,33.6179647" id="Line-14" stroke="#000000" stroke-width="5.54770944" stroke-linecap="square"></path>
+                <path d="M41.1730663,60.4318937 L116.067144,60.4318937 L116.067144,88.1704409 L41.1730663,88.1704409 L41.1730663,60.4318937 Z M68.9116135,65.0549849 L68.9116135,82.6227315 L86.4793601,82.6227315 L86.4793601,65.0549849 L68.9116135,65.0549849 Z" id="Combined-Shape" fill="#000000"></path>
+                <polygon id="Rectangle-25-Copy-9" fill="#000000" points="71.377767 73.3765491 77.8955354 74.7634764 84.3224224 73.3765491 84.3224224 76.1504038 77.6979674 77.5373311 71.377767 76.1504038"></polygon>
+                <polygon id="Path-25" stroke="#000000" stroke-width="4.9392" transform="translate(13.489600, 64.618800) scale(-1, 1) translate(-13.489600, -64.618800) " points="0.044 64.335656 11.680707 64.335656 11.680707 59.0714775 11.680707 51.5848 19.6526943 51.5848 19.6526943 58.852575 26.9352 58.852575 26.9352 77.6528 0.0729671646 77.6528"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

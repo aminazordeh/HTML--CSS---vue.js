@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="129px" height="109px" viewBox="0 0 129 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_design_face_good</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="6.48353408" y="15.3317081" width="85.9894963" height="93.3864422"></rect>
+        <rect id="path-2" x="0.0112064" y="30.1255999" width="46.230912" height="44.3816755"></rect>
+        <rect id="path-3" x="52.7144461" y="30.1255999" width="46.230912" height="44.3816755"></rect>
+    </defs>
+    <g id="EXPORS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icn_design_face_good">
+            <g id="Group-6">
+                <g id="Rectangle-24">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#000000" stroke-width="7.39694592" x="10.182007" y="19.0301811" width="78.5925504" height="85.9894963"></rect>
+                </g>
+                <g id="Rectangle-24-Copy">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#000000" stroke-width="7.39694592" x="3.70967936" y="33.8240729" width="38.8339661" height="36.9847296"></rect>
+                </g>
+                <g id="Rectangle-24-Copy-2">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#000000" stroke-width="7.39694592" x="56.412919" y="33.8240729" width="38.8339661" height="36.9847296"></rect>
+                </g>
+                <rect id="Rectangle-25-Copy-3" fill="#000000" x="74.2335526" y="45.84411" width="12.9446554" height="12.9446554"></rect>
+                <rect id="Rectangle-25-Copy-4" fill="#000000" x="20.6056947" y="44.9194918" width="12.9446554" height="12.9446554"></rect>
+                <polygon id="Rectangle-25-Copy-8" fill="#000000" points="43.4682637 88.3765491 49.986032 89.7634764 56.412919 88.3765491 56.412919 91.1504038 49.788464 92.5373311 43.4682637 91.1504038"></polygon>
+                <rect id="Rectangle-25" fill="#000000" x="0.0112064" y="10.7086169" width="98.9341517" height="15.7185101"></rect>
+                <rect id="Rectangle-25-Copy-2" fill="#000000" x="6.48353408" y="0.537816269" width="85.9894963" height="17.5677466"></rect>
+                <polygon id="Path-25" stroke="#000000" stroke-width="4.9392" points="98.6152 92.506856 110.251907 92.506856 110.251907 87.2426775 110.251907 79.756 118.223894 79.756 118.223894 87.023775 125.5064 87.023775 125.5064 105.824 98.6441672 105.824"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
